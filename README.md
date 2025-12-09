@@ -72,10 +72,12 @@ Managing projects using Git & GitHub
 Creating clean, minimal documentation
 
 🎉 Status
+
 Project	Completed
 Hangman	✅
 Stock Portfolio	✅
-ChatBot	✅
+ChatBot	✅ 
+ 
 👨‍💻 Author
 
 Janakisetty Mukesh Babu
